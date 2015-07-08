@@ -1,0 +1,30 @@
+I, [2015-07-07T14:26:41.083126 #15257]  INFO -- : Refreshing Gem list
+I, [2015-07-07T14:26:50.574758 #15257]  INFO -- : listening on addr=/home/atmosfeel/sample_rails_app/shared/sockets/unicorn.sock fd=11
+I, [2015-07-07T14:26:50.598286 #15257]  INFO -- : worker=0 spawning...
+I, [2015-07-07T14:26:50.608762 #15257]  INFO -- : worker=1 spawning...
+I, [2015-07-07T14:26:50.613636 #15261]  INFO -- : worker=0 spawned pid=15261
+I, [2015-07-07T14:26:50.615894 #15257]  INFO -- : master process ready
+I, [2015-07-07T14:26:50.618847 #15264]  INFO -- : worker=1 spawned pid=15264
+I, [2015-07-07T14:26:50.626282 #15261]  INFO -- : worker=0 ready
+I, [2015-07-07T14:26:50.645839 #15264]  INFO -- : worker=1 ready
+D, [2015-07-07T18:14:15.518644 #15257] DEBUG -- : waiting 16.0s after suspend/hibernation
+I, [2015-07-08T09:21:18.094919 #3659]  INFO -- : Refreshing Gem list
+I, [2015-07-08T09:21:25.345197 #3659]  INFO -- : unlinking existing socket=/home/atmosfeel/sample_rails_app/shared/sockets/unicorn.sock
+I, [2015-07-08T09:21:25.345410 #3659]  INFO -- : listening on addr=/home/atmosfeel/sample_rails_app/shared/sockets/unicorn.sock fd=11
+I, [2015-07-08T09:21:25.345542 #3659]  INFO -- : worker=0 spawning...
+I, [2015-07-08T09:21:25.346903 #3659]  INFO -- : worker=1 spawning...
+I, [2015-07-08T09:21:25.347821 #3664]  INFO -- : worker=0 spawned pid=3664
+I, [2015-07-08T09:21:25.350656 #3659]  INFO -- : master process ready
+I, [2015-07-08T09:21:25.360240 #3667]  INFO -- : worker=1 spawned pid=3667
+I, [2015-07-08T09:21:25.363104 #3664]  INFO -- : worker=0 ready
+I, [2015-07-08T09:21:25.366704 #3667]  INFO -- : worker=1 ready
+I, [2015-07-08T09:23:12.998226 #3645]  INFO -- : Refreshing Gem list
+I, [2015-07-08T09:23:20.240292 #3645]  INFO -- : unlinking existing socket=/home/atmosfeel/sample_rails_app/shared/sockets/unicorn.sock
+I, [2015-07-08T09:23:20.240497 #3645]  INFO -- : listening on addr=/home/atmosfeel/sample_rails_app/shared/sockets/unicorn.sock fd=11
+I, [2015-07-08T09:23:20.240631 #3645]  INFO -- : worker=0 spawning...
+I, [2015-07-08T09:23:20.242084 #3645]  INFO -- : worker=1 spawning...
+I, [2015-07-08T09:23:20.243525 #3645]  INFO -- : master process ready
+I, [2015-07-08T09:23:20.250248 #3649]  INFO -- : worker=0 spawned pid=3649
+I, [2015-07-08T09:23:20.251979 #3651]  INFO -- : worker=1 spawned pid=3651
+I, [2015-07-08T09:23:20.259336 #3649]  INFO -- : worker=0 ready
+I, [2015-07-08T09:23:20.263318 #3651]  INFO -- : worker=1 ready

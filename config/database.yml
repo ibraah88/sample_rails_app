@@ -1,0 +1,19 @@
+production:
+  adapter: mysql2
+  encoding: utf8
+  database: sample_rails_app_production
+  username: root
+  password: passer@X86
+  host: localhost
+  port: 3306
+
+
+development:
+  adapter: mysql2
+  encoding: utf8
+  database: sample_rails_app_development
+  username: root             
+  password: passer@X86         
+  host: localhost
+  port: 3306
+
